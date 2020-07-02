@@ -1,0 +1,13 @@
+HTML {
+  background: linear-gradient(#c7417b, #553772);
+  background-repeat: no-repeat;
+  font-family: 'Poppins', sans-serif;
+  height: 100%;
+  
+} 
+
+/* @media only screen and (max-width: 600px) {
+  .container {
+    
+    background: brown;
+  } */
